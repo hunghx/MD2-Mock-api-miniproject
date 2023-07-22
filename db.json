@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Quần âu nam",
+      "description": "Đây là quần âu nam",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "productName": "Áo phông nam",
+      "description": "Đây là áo phông nam",
+      "price": "155"
+    },
+    {
+      "id": 3,
+      "productName": "Vòng cổ nam",
+      "description": "Đây là vòng cổ nam",
+      "price": 300
+    }
+  ]
+}
